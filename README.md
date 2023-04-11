@@ -31,3 +31,6 @@ git clone https://github.com/pauloruan/contacts.git
 ## Tecnologias utilizadas
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [H2](https://www.h2database.com/html/main.html)
+
+## Autor
+- [Paulo Ruan](https://www.github.com/pauloruan) - &#x1F468;&#x1F3FB;&#x200D;&#x1F4BB; Desenvolvedor Full Stack  
