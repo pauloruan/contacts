@@ -1,6 +1,8 @@
 # Contacts - Gerenciador de Contatos
 O Contacts é uma aplicação web escrita em Spring Boot que permite aos usuários gerenciar seus contatos de maneira fácil e eficiente. Com esta aplicação, os usuários podem adicionar, visualizar e atualizar contatos.
 
+![GitHub deployments](https://img.shields.io/github/deployments/pauloruan/contacts/production?style=for-the-badge) ![Top Language](https://img.shields.io/github/languages/top/pauloruan/contacts?style=for-the-badge) ![Last Modify](https://img.shields.io/github/last-commit/pauloruan/contacts?style=for-the-badge)
+
 ## Requisitos
 Para executar esta aplicação, é necessário ter instalado:
 
